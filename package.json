@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@types/react-bootstrap": "^0.32.15",
+    "node-fetch": "^2.3.0",
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.4.0"
